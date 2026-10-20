@@ -1,0 +1,16 @@
+[33m52d9bc9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Revert "created .gitkeep to make second_folder worthy"
+[33m7fef4e3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m created .gitkeep to make second_folder worthy
+[33m2009840[m moved example_new.md -> first_folder/example_new.md
+[33mdcf454d[m rename example02.md -> example_new_02.md
+[33m1a1df6e[m rename example.md -> example_new.md
+[33m3f50d07[m few changes
+[33m7a1175b[m Create example02.md
+[33mf2adfef[m adds example.md to demostrate the git process
+[33m4bf5834[m Update NOTICE
+[33mae601c0[m Update README.md
+[33mac3e1d0[m update readme for Git Essential training course
+[33m2f61216[m clear terminal window after creation
+[33mf645127[m Increase font size for terminal to match editor
+[33m333c1e6[m Adds the code to expose the .git folder (commented)
+[33mda4508f[m Update README.md
+[33m110e885[m Initial commit
